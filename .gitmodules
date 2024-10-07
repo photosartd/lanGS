@@ -1,3 +1,6 @@
 [submodule "submodules/gaussian-splatting-lightning"]
 	path = submodules/gaussian-splatting-lightning
 	url = https://github.com/photosartd/gaussian-splatting-lightning
+[submodule "submodules/LangSplat"]
+	path = submodules/LangSplat
+	url = https://github.com/photosartd/LangSplat.git
