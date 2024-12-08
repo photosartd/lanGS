@@ -31,3 +31,8 @@ to be upscaled by the autoencoder to CLIP dim.
 @1 metrics for the retrieval.
 3. Record some scenes with the same classes, mesh objects and do the p.2.
 4. Use Depth-Anything for the correct resizing/alignment of a mesh with a GS blob.
+
+# Questions
+1. Clarify if we got different embeddings w.r.t view direction
+2. Make a diagram for the previous question
+3. Try to deconstruct certain meshes to then be able to adapt them to what we had?
