@@ -4,3 +4,9 @@
 [submodule "submodules/LangSplat"]
 	path = submodules/LangSplat
 	url = https://github.com/photosartd/LangSplat.git
+[submodule "submodules/feature-splatting"]
+	path = submodules/feature-splatting
+	url = https://github.com/photosartd/feature-splatting.git
+[submodule "submodules/DuoduoCLIP"]
+	path = submodules/DuoduoCLIP
+	url = git@github.com:photosartd/DuoduoCLIP.git
